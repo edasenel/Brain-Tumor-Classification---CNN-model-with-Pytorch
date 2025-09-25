@@ -182,3 +182,7 @@ To run this project:
 3. Execute the Jupyter notebook cells in sequence
 4. Monitor training progress with TensorBoard: `tensorboard --logdir=runs`
 5. Evaluate results using the provided visualization tools
+
+
+
+* [Link to Kaggle](https://www.kaggle.com/code/edasenel/brain-tumor-classification-with-pytorch)
